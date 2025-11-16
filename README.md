@@ -97,7 +97,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light)
 
 ### Codewars
-![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true)
+![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true&stroke=black)
 
 ### Codewars
 ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=tyro-asap)
