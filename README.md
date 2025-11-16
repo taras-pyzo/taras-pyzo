@@ -92,11 +92,15 @@
 ![mdnwebdocs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## Leetcode
+## Problem solving
+### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light)
 
-## Codewars
+### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true)
+
+### Codewars
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=tyro-asap)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
