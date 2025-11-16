@@ -99,9 +99,6 @@
 ### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true&stroke=black)
 
-### Codewars
-![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=tyro-asap)
-
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
