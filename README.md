@@ -99,6 +99,8 @@
 ### Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true&stroke=black)
 
+![HackerRank Stats](https://hacker-rank-stats.vercel.app/api?username=tyro_asap)
+
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
