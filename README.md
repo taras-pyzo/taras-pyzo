@@ -93,7 +93,7 @@
 ![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light)
 
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
