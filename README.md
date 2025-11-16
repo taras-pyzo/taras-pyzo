@@ -96,7 +96,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tyro-asap?theme=light)
 
 ## Codewars
-![Codewars](https://github.r2v.ch/codewars?user=tyro-asap)
+![Codewars](https://github.r2v.ch/codewars?user=tyro-asap&theme=light&hide_clan=true)
 
 <!--
 **tyro-asap/tyro-asap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
